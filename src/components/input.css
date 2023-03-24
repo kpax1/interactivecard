@@ -1,0 +1,92 @@
+
+
+.inputsection{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+label{
+    margin-right: 25px;
+    color:#21092F;
+    font-weight: 500;
+    font-size:12px;
+    line-height: 15.31px;
+    letter-spacing: 2px;
+}
+
+input{
+    width: 327;
+    height: 45px;
+    color: #21092F;
+    background-color: #ffff;
+    opacity: 25%;
+    font-weight: 500;
+    font-size: 18px;
+    border: 1px solid #9e9c9c   ;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 9px;
+    padding-left: 16px;
+}
+
+input{
+    width: 327px;
+}
+
+.cvcinput , .yyinput, .mminput ,.numbersinput{
+    border:2px solid #FF5050;
+}
+
+.numberandcvcinput input{
+    width: 72px;
+    height: 45px;
+    margin-right: 10px;
+
+}
+
+
+.cvcinputbox input {
+    width: 164px;
+    height: 45px;
+}
+.cvcinputbox p {
+    color:#FF5050;
+}
+
+.nandcvc{
+    display: flex;
+}
+
+
+.confirm, .continiue{
+    margin-top: 28px;
+    background-color: #21092F;
+    width: 327px;
+    height: 53px;
+    border-radius: 8px;
+    color: #ffff;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22.97px;
+
+}
+
+
+
+.textbox p{
+    margin-bottom: 9px;
+    color: #21092F;
+}
+.numberandcvcinput p {
+    color:#FF5050
+}
+
+.error p{
+    color: #FF5050;
+}
+.invalidnumber p{
+    color: #FF5050;
+}
+

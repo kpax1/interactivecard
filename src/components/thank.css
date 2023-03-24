@@ -1,0 +1,30 @@
+.thank{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.than img{
+    margin-top: 50px;
+}
+
+.thank h1{
+    color:#21092F;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 35.73px;
+    letter-spacing: 3.42px;
+    margin-bottom: 16px;
+    margin-top: 35px;
+
+}
+
+.thank h4{
+    color: #8F8694;
+    font-weight: 500;
+    line-height: 22.97px;
+    font-size: 18px;
+    margin-bottom: 48px;
+}

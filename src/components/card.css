@@ -1,0 +1,96 @@
+.uppercontainer {
+    background-image: url('../images/bg-main-mobile.png');
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+
+.ovalblur{
+    background-color: #FF834A;
+    position: absolute;
+    height: 268px;
+    width: 226px;
+    top: -74px;
+    left:134px;
+    opacity: 15%;
+    border-radius: 135.91px;
+    filter: blur(50px)
+}
+
+
+
+.backcard {
+    width: 286px;
+    height: 157px;
+    margin-left: 57px;
+}
+
+.frontcard{
+    width: 286px;
+    height: 157px;
+    position: absolute;
+    top:24%;
+
+}
+
+.cardcontainer{
+    padding-top: 32px;
+    margin-left: 16px;
+    width: 343px;
+    height: 251px;
+}
+
+
+.cvc{
+    position: absolute;
+    top:6.415rem;
+    left:18.874rem;
+    font-size: 9px;
+    font-weight: 500;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+
+.frontpresentation{
+    position: absolute;
+    margin-top: 100px;
+    width: 286px;
+    height: 157px;
+    top: 25px;
+    left: 16px;
+    
+}
+
+.frontpresentation img{
+    margin-top: 17px;
+    margin-left: 19px;
+}
+.frontpresentation h1{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22.97px;
+    letter-spacing: 2.2px;
+    margin-left: 19px;
+    padding-top: 20px;
+    color: #FFFFFF;
+}
+
+.presentationamedate{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 19px;
+    padding-right: 20.69px;
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 11.48px;
+    letter-spacing: 1.29px;
+    color:#FFFFFF;
+    padding-top: 17px;
+
+}
+
